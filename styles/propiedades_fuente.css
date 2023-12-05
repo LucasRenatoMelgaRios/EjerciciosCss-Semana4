@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Moon+Dance&family=Roboto:wght@300&display=swap');
+
+
+body{
+    font-size: 1.5rem;
+    font-family: 'Roboto', sans-serif;
+    line-height: 40px;
+}
+
+.separacion1{
+    line-height: 10px;
+}
+
+.separacion2 {
+    line-height: 20px;
+}
+
+.texto-mayusculas {
+    text-transform: uppercase;
+  }
+
+  .texto-minusculas {
+    text-transform: lowercase;
+  }
+
+  .capitalizar {
+    text-transform: capitalize;
+  }
+
+  .alinear-izquierda {
+    text-align: left;
+  }
+
+  .alinear-derecha {
+    text-align: right;
+  }
+
+  .centrar {
+    text-align: center;
+  }
+
+  .justificar {
+    text-align: justify;
+  }
+
+  .normal {
+    font-weight: normal;
+  }
+
+  .negrita {
+    font-weight: bold;
+  }
+
+  .mas-negrita {
+    font-weight: 700; /* Valor numérico para bold, puede variar dependiendo de la fuente */
+  }
+
+  .ligero {
+    font-weight: lighter;
+  }
+
+  .normal {
+    font-style: normal;
+  }
+
+  .italica {
+    font-style: italic;
+  }
+
+  .oblicua {
+    font-style: oblique;
+  }
+
+  .subrayado {
+    text-decoration: underline;
+  }
+
+  .tachado {
+    text-decoration: line-through;
+  }
+
+  .sin-decoracion {
+    text-decoration: none;
+  }
+
+
+
